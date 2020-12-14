@@ -11,7 +11,7 @@ Founded in 2015, KC Legal Hackers is a network of legal professionals in Kansas 
 Past events include our annual [Law and Technology CLE]() event, [Legal Hackathons](), and a course on [Computer Programming for Lawyers]().
 
 ## Connect
-If you want to get involved, there are a number of ways you can connect with us! We post updates about upcoming events on [Facebook](https://www.facebook.com/groups/KCLegalHackers) and [Twitter]. You can also sign up for updates via email, to make sure you never miss out on the fun!
+If you want to get involved, there are a number of ways you can connect with us! We post updates about upcoming events on [Facebook](https://www.facebook.com/groups/KCLegalHackers) and [Twitter](https://twitter.com/kclegalhackers). You can also sign up for updates via email, to make sure you never miss out on the fun!
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -49,3 +49,5 @@ If you want to get involved, there are a number of ways you can connect with us!
 </div>
 
 <!--End mc_embed_signup-->
+
+***If you have any questions, feel free to reach out to us directly through [email](mailto: KCLegalHackers@gmail.com)!***
