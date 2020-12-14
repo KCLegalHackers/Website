@@ -1,7 +1,3 @@
-![](https://i.imgur.com/uKLpmAP.png)
-# [KC Legal Hackers](kclegalhackers.org)
-
-
 ## About
 
 Founded in 2015, KC Legal Hackers is a network of legal professionals in Kansas City who are passionate about the intersections of law, technology, and design. 
